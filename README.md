@@ -12,4 +12,8 @@
 - Meditation, stretching, and relaxation
 - Visited a friend
 
-
+#### Friday Jan 3rd, 2020
+- Pulled out the styling into a function
+- Tags will be picking the color options
+- Helped a friend talk through saving and managing state in their application
+- Bit of walking at least 10,000 steps
