@@ -24,4 +24,8 @@
 - May resort to another option
 - Walked a few miles
 
-####
+#### Sunday Jan 5th, 2020
+- Bit of traveling today
+- Wrote test for new functionality in an application
+- Looked into new option for dynamically changing css
+- Walked a few miles
