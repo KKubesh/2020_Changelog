@@ -17,3 +17,11 @@
 - Tags will be picking the color options
 - Helped a friend talk through saving and managing state in their application
 - Bit of walking at least 10,000 steps
+
+#### Saturday Jan 4th, 2020
+- Struggled with emotion css imports
+- Tried to narrow down where the issue is occuring
+- May resort to another option
+- Walked a few miles
+
+####
