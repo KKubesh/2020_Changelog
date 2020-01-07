@@ -29,3 +29,9 @@
 - Wrote test for new functionality in an application
 - Looked into new option for dynamically changing css
 - Walked a few miles
+
+#### Monday Jan 6th, 2020
+- Rescoped parts of my project to avoid blockers
+- Worked through issues with compiling and conflicts with emotionjs
+- Walked 10,000 steps
+- Started and finished The Heart to Start by David Kadavy
