@@ -35,3 +35,9 @@
 - Worked through issues with compiling and conflicts with emotionjs
 - Walked 10,000 steps
 - Started and finished The Heart to Start by David Kadavy
+
+#### Tuesday Jan 7th, 2020
+- Started The Phoenix Project
+- Walked 10,000 steps
+- Started self review
+
