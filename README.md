@@ -41,3 +41,8 @@
 - Walked 10,000 steps
 - Started self review
 
+### Wednesday Jan 8th, 2020
+- Rolled back to only using next, react, and emotion
+- Made great progress dynamically picking the styles by user choosing
+- Issues with css were resolved
+- Talked through hooks, useEffects, and context with a friend
