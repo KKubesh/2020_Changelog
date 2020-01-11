@@ -41,8 +41,18 @@
 - Walked 10,000 steps
 - Started self review
 
-### Wednesday Jan 8th, 2020
+#### Wednesday Jan 8th, 2020
 - Rolled back to only using next, react, and emotion
 - Made great progress dynamically picking the styles by user choosing
 - Issues with css were resolved
 - Talked through hooks, useEffects, and context with a friend
+
+#### Thursday Jan 9th, 2020
+- Read first story of Exhalaition
+- Wrote book club questions
+- Gave a tour to Mentees and chatted about their work
+
+#### Friday Jan 10th, 2020
+- Started indepth personal review
+- Ran 4 miles
+- Read second story of Exhalaition
